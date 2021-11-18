@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ejJ/vzWFB0LleCWyv/TYME+ZcMn5g911p7oe7dayI7S0Lx1jNeVkiVmc5ioTPUFIeKTFiklz5U3uOyKUmHeDGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nhuang\\Desktop\\RetryPolicySample\\RetryPolicySample\\RetryPolicySample\\RetryPolicySample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nhuang\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\nhuang\\.nuget\\packages\\polly\\7.2.2\\polly.7.2.2.nupkg.sha512",
+    "C:\\Users\\nhuang\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
